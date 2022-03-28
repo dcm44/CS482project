@@ -1,5 +1,6 @@
 # CS482project
 Machine learning project for CS482 - Data Mining
+
 Group Members:
   Dominic Mozeika, Nirav Patel, Khoa Nguyen
 
