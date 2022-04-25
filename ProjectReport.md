@@ -162,7 +162,7 @@ In comparison to a proof-of-stake consensus model, we will see a much higher thr
 
 The model in which examined gives us insight to how each network protocol operates and affects transaction speeds. We notice some key takeaways from the data we generated; first and foremost we prove that the PoW consensus algorithm is bounded by the time it takes the network validators to process new blocks. In bitcoin’s case, blocks are limited and gradually slow down the generation of new blocks, lowering the odds of it becoming inflationary. The opposite is true for other cryptocurrency networks that allow unlimited amounts of supply to be generated. From our data we can derive that PoW consensus models can not handle high speeds at scale, with PoS models processing transactions 5-20x faster. And even faster than that, we see private networks such as Ripple and Visa practically handling transactions instantaneously.
 
-*ADD GRAPH*
+ ![](/txspeed.png)
 
 We see such high transaction rates in private networks such as ripple because the consensus model uses subnetworks that are collectively trusted within the whole network. The protocol is executed every few seconds to ensure correctness of the network. After consensus is reached, the ledger becomes closed. This ledger is constantly cross checked when a new transaction occurs, assuring that all past transactions are valid and the network size and value are accurate (ieee.org).
 
