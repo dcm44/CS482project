@@ -1,10 +1,6 @@
-DATA
+#DATA
 
-	
-
-Comparing each currency’s network performance
-
-
+Comparing currency’s network statistics
 
 1. Bitcoin
 2. Ethereum
