@@ -1,4 +1,4 @@
-#DATA
+# DATA
 
 Comparing currency’s network statistics
 
