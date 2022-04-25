@@ -1,5 +1,6 @@
 # Correlating Transaction Speeds and Network Integrity in Cryptocurrency Networks
 CS 482 - Data Mining
+
 Group Members: Dominic Mozeika, Nirav Patel, Khoa Nguyen
 
 # INTRODUCTION
