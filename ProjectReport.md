@@ -154,7 +154,7 @@ Currency
 
 When applying our data to mathematical methods we will focus on understanding what factors are contributing the most to overall transaction speeds. The problem of scalability in PoW consensus models comes from the underlying fundamentals of a limited amount of blocks that are generated. Generally, the scalability of the networks is based solely on the physical capabilities of a computer network, such as throughput and latency. In the graph below we can see that as more traffic is coming through the network, there is a threshold where the throughput is capped and the network delays begin to get backed up.
 
- ![](/threshold.png width=250)
+ ![](/threshold.png)
 
 In comparison to a proof-of-stake consensus model, we will see a much higher threshold as we are not constrained on a certain amount of time needed to create new blocks. Instead, the network can handle these transactions internally, as the nodes responsible for validating the transactions are rewarded privately in smaller amounts. This is a key difference between PoW and PoS, as the latter consensus model does not need to wait on the network to generate blocks at a high cost. Instead, it simply awards previously validated blocks to verify transactions faster and lower cost to the network.
 
